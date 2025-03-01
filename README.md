@@ -1,1 +1,1 @@
-# Train-Ticket-Booking-System
+This Java-based train ticket booking system manages reservations, cancellations, and a waitlist. It assigns seats dynamically, moves waitlisted passengers upon cancellations, and prevents duplicate bookings. Using a menu-driven interface, it ensures smooth user interaction with input validation. Data structures like LinkedList, Queue, and HashMap efficiently handle booking operations.
